@@ -15,10 +15,13 @@ We used [HiFaceGAN](https://github.com/Lotayou/Face-Renovation) and [KID-F Datas
 - cv2 
 
 for crop.py(view code, edit yourself)
-  cv2, mediapipe, tqdm  
+- cv2
+- mediapipe
+- tqdm  
 
 for degrad.py(view code, edit yourself)
-  cv2, tqdm
+- cv2
+- tqdm
   
 ### Checkpoint
 We provide Model Checkpoint which trained from KID-F Dataset. We used train_dataset of KID-F for training, which takes 2 days on a GTX 1080 Ti. We upload the checkpoint on our [Google Drive](https://drive.google.com/drive/folders/1GrZIofQc3uWFVWserxgPEO97DZEJYOuK?usp=sharing).
