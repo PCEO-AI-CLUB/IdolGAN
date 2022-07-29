@@ -1,6 +1,6 @@
 # IdolGAN ~~[adoːkẽꜜɴ]~~
 
-![thumbnail](./resource/thumbnail.png)
+![thumbnail](./resource/thumbnail2.png)
 
 
 # Overview
