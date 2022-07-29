@@ -5,9 +5,9 @@
 
 # Overview
 
-IdolGAN project is inspired by our pure passion which is **restoring our favorite Korean idols to high quality images**. So we googled about it. But many SR models like Topaz can't generate an image we are satisfied with. We think models trained by FFHQ or Celeb-A never restore our favorite idols to high quality properly. Therefore, we gather many high-quality K-pop Idol images from the internet. The most important part is the face. The satisfactory thershold of face image quality is higher than the other parts of human images (etc. arm, legs, or feet). So we collect about 6,000 K-pop girl group images at least 512\*512 size, even the face alone! We build these images to a dataset called **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F))**.
+IdolGAN project is inspired by our pure passion which is **restoring our favorite K-pop idols to high quality images**. So we googled about it. But many SR models like Topaz can't generate an image we are satisfied with. We think models trained by FFHQ or Celeb-A never restore our favorite idols to high quality properly. Therefore, we gather many high-quality K-pop Idol images from the internet. The most important part is the face. The satisfactory thershold of face image quality is higher than the other parts of human images (etc. arm, legs, or feet). So we collect about 6,000 K-pop girl group images at least 512\*512 size, even the face alone! We build these images to a dataset called **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F))**.
 
-In this repo, we will archive our journey to restore perfect high quality Korean idol face images. We finished our first step which is proving our hypothesis: fat pops and wrinkled old women in FFHQ, Celeb-A, etc can't generate our beautiful idol's face. ❤️
+In this repo, we will archive our journey to restore perfect high quality K-pop idol face images. We finished our first step which is proving our hypothesis: fat pops and wrinkled old women in FFHQ, Celeb-A, etc can't generate our beautiful idol's face. ❤️
 
 We used [HiFaceGAN](https://github.com/Lotayou/Face-Renovation) and [KID-F Dataset](https://github.com/PCEO-AI-CLUB/KID-F).
 
