@@ -1,4 +1,4 @@
-# IdolGAN ~~[adoːkẽꜜɴ]~~
+# IdolGAN 
 
 ![thumbnail](./resource/thumbnail2.png)
 
